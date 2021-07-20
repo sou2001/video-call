@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;700&dispaly=swap');
+body {
+    background:
+    linear-gradient(
+      rgb(45, 45, 45),
+      rgb(45, 45, 45)
+    );
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
